@@ -1,0 +1,6 @@
+{
+  "name": "Fleet Tycoon Android - White-Label Edition",
+  "description": "An encrypted, white-labeled Android-optimized food delivery tycoon simulation with over-the-air patch engine, global rankings, and privacy-focused monthly activity summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
